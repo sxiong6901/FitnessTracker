@@ -5,6 +5,7 @@ For this assignment, you'll create a workout tracker. You have already been prov
 ## Table of Contents
   * [Title](#Title)
   * [Description](#Description)
+  * [Installation](#Installation)
   * [Application](#Application)
   * [License](#license)
   * [Questions](#Questions)
@@ -22,6 +23,11 @@ It'll allow the user to do the following
   * Add new exercises to a new workout plan.
 
   * View the combined weight of multiple exercises on the `stats` page.
+
+## Installation
+* git clone repository
+* npm install
+* npm start
 
 ## Application
 This application uses Node, Express and MongoDB so that users can save books to review or save later.
