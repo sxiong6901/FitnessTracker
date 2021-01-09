@@ -38,7 +38,7 @@ This application uses Node, Express and MongoDB so that users can save books to 
 
 This App is deployed on Heroku: https://fathomless-citadel-54968.herokuapp.com/
 
-![myimage-alt-tag](https://github.com/sxiong6901/GoogleBook/blob/master/Assets/Screenshot.JPG?raw=true)
+![myimage-alt-tag](https://github.com/sxiong6901/FitnessTracker/blob/master/public/assets/Fitness%20Dashboard.JPG)
 
 ## License
 MIT
