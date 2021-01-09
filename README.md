@@ -36,7 +36,7 @@ This application uses Node, Express and MongoDB so that users can save books to 
 - [Express.js](https://expressjs.com)
 - [Node.js](https://nodejs.org/en/)
 
-This App is deployed on Heroku: https://fathomless-citadel-54968.herokuapp.com/
+This App is deployed on Heroku: https://stark-dawn-01283.herokuapp.com/
 
 ![myimage-alt-tag](https://github.com/sxiong6901/FitnessTracker/blob/master/public/assets/Fitness%20Dashboard.JPG)
 
